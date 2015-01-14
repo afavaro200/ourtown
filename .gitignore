@@ -1,0 +1,9 @@
+# https://help.github.com/articles/ignoring-files
+# https://github.com/github/gitignore
+
+# ignore files globally
+# create a .gitignore_global in the root directory
+# git config --global core.excludesfiles ~/.gitignore_global
+# for files you wants to stop tracking:
+# 1. add file into .gitignore file
+# 2. git rm --cached <filename>
